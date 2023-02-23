@@ -1,6 +1,13 @@
 *{
 
 }
-body{
-    background-color: rgb(24, 24, 24);
+
+
+
+.main{
+    width: 600px;
+}
+
+#profile-img{
+    max-width: 60px;
 }
